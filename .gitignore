@@ -1,0 +1,10 @@
+# Altium temporary and auto-generated files
+History/
+*/History/
+__Previews/
+*/__Previews/
+*.SchDocPreview
+*.PcbDocPreview
+*.~*
+*.PrjPcbStructure
+Project Logs for */
